@@ -49,6 +49,16 @@ export default {
           foreground: "hsl(var(--accent-foreground))",
           hover: "hsl(var(--accent-hover))",
         },
+        "warm-yellow": {
+          DEFAULT: "hsl(var(--warm-yellow))",
+          light: "hsl(var(--warm-yellow-light))",
+          foreground: "hsl(var(--warm-yellow-foreground))",
+        },
+        coral: {
+          DEFAULT: "hsl(var(--coral))",
+          light: "hsl(var(--coral-light))",
+          foreground: "hsl(var(--coral-foreground))",
+        },
         success: {
           DEFAULT: "hsl(var(--success))",
           foreground: "hsl(var(--success-foreground))",

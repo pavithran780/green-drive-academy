@@ -10,7 +10,7 @@ const FloatingButtons = () => {
         href="https://wa.me/919876543210"
         target="_blank"
         rel="noopener noreferrer"
-        className="group flex items-center gap-3 bg-[hsl(142,70%,45%)] text-[hsl(0,0%,100%)] px-4 py-3 rounded-full shadow-elevated hover:shadow-glow transition-all duration-300 hover:scale-105"
+        className="group flex items-center gap-3 bg-success text-success-foreground px-4 py-3 rounded-full shadow-elevated hover:shadow-glow transition-all duration-300 hover:scale-105"
         aria-label={t('common.whatsapp')}
       >
         <MessageCircle className="w-6 h-6" />
@@ -19,7 +19,7 @@ const FloatingButtons = () => {
       
       <a
         href="tel:+919876543210"
-        className="group flex items-center gap-3 bg-primary text-primary-foreground px-4 py-3 rounded-full shadow-elevated hover:shadow-glow transition-all duration-300 hover:scale-105 animate-bounce-gentle"
+        className="group flex items-center gap-3 bg-coral text-coral-foreground px-4 py-3 rounded-full shadow-elevated hover:shadow-glow transition-all duration-300 hover:scale-105 animate-bounce-gentle"
         aria-label={t('common.callNow')}
       >
         <Phone className="w-6 h-6" />
