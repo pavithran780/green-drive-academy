@@ -57,7 +57,7 @@ export const translations: Translations = {
   // About Page
   'about.title': { en: 'About Our Institute', ta: 'எங்கள் நிறுவனத்தைப் பற்றி' },
   'about.story': { en: 'Our Story', ta: 'எங்கள் கதை' },
-  'about.storyText': { en: 'Established in 2008, Salem Driving Institute has been a trusted name in driver education. We started with a simple mission: to create confident, safe drivers who respect road rules and fellow commuters.', ta: '2008 இல் நிறுவப்பட்ட சேலம் டிரைவிங் இன்ஸ்டிடியூட் ஓட்டுநர் கல்வியில் நம்பகமான பெயர். சாலை விதிகளை மதிக்கும் நம்பிக்கையான, பாதுகாப்பான ஓட்டுநர்களை உருவாக்குவது எங்கள் நோக்கம்.' },
+  'about.storyText': { en: 'Established in 2008, Murugan Driving Institute has been a trusted name in driver education. We started with a simple mission: to create confident, safe drivers who respect road rules and fellow commuters.', ta: '2008 இல் நிறுவப்பட்ட சேலம் டிரைவிங் இன்ஸ்டிடியூட் ஓட்டுநர் கல்வியில் நம்பகமான பெயர். சாலை விதிகளை மதிக்கும் நம்பிக்கையான, பாதுகாப்பான ஓட்டுநர்களை உருவாக்குவது எங்கள் நோக்கம்.' },
   'about.mission': { en: 'Our Mission', ta: 'எங்கள் நோக்கம்' },
   'about.missionText': { en: 'To promote a safe driving culture in Salem by training beginners with patience, building their confidence, and ensuring they understand and follow all road safety rules.', ta: 'பொறுமையுடன் ஆரம்பகர்களுக்கு பயிற்சி அளித்து, அவர்களின் நம்பிக்கையை வளர்த்து, சாலை பாதுகாப்பு விதிகளை புரிந்துகொள்ள உதவுவது.' },
   'about.instructors': { en: 'Our Instructors', ta: 'எங்கள் பயிற்சியாளர்கள்' },
@@ -104,7 +104,7 @@ export const translations: Translations = {
   'footer.tagline': { en: 'Your trusted partner for driving education in Salem', ta: 'சேலத்தில் ஓட்டுநர் கல்விக்கான உங்கள் நம்பகமான கூட்டாளி' },
   'footer.quickLinks': { en: 'Quick Links', ta: 'விரைவு இணைப்புகள்' },
   'footer.servingAreas': { en: 'Serving Salem and nearby areas', ta: 'சேலம் மற்றும் அருகிலுள்ள பகுதிகளுக்கு சேவை' },
-  'footer.copyright': { en: '© 2024 Salem Driving Institute. All rights reserved.', ta: '© 2024 சேலம் டிரைவிங் இன்ஸ்டிடியூட். அனைத்து உரிமைகளும் பாதுகாக்கப்பட்டவை.' },
+  'footer.copyright': { en: '© 2024 Murugan DrivingInstitute. All rights reserved.', ta: '© 2024 சேலம் டிரைவிங் இன்ஸ்டிடியூட். அனைத்து உரிமைகளும் பாதுகாக்கப்பட்டவை.' },
 };
 
 interface LanguageContextType {
