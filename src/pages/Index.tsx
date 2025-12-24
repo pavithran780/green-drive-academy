@@ -74,13 +74,13 @@ const Index = () => {
       <section className="relative gradient-hero overflow-hidden">
         <div className="absolute inset-0 opacity-10">
           <div className="absolute top-20 left-10 w-72 h-72 bg-primary rounded-full blur-3xl" />
-          <div className="absolute bottom-20 right-10 w-96 h-96 bg-accent rounded-full blur-3xl" />
+          <div className="absolute bottom-20 right-10 w-96 h-96 bg-warm-yellow rounded-full blur-3xl" />
         </div>
         
         <div className="container mx-auto px-4 py-16 md:py-24 lg:py-32 relative">
           <div className="max-w-4xl mx-auto text-center">
-            <div className="inline-flex items-center gap-2 bg-primary/10 text-primary px-4 py-2 rounded-full text-sm font-medium mb-6 animate-fade-in">
-              <CheckCircle className="w-4 h-4" />
+            <div className="inline-flex items-center gap-2 bg-warm-yellow/20 text-warm-yellow-foreground px-4 py-2 rounded-full text-sm font-medium mb-6 animate-fade-in border border-warm-yellow/30">
+              <CheckCircle className="w-4 h-4 text-warm-yellow" />
               <span>{language === 'ta' ? 'சேலத்தின் நம்பகமான டிரைவிங் நிறுவனம்' : 'Salem\'s Trusted Driving Institute'}</span>
             </div>
             

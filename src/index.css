@@ -35,6 +35,16 @@
     --accent-foreground: 38 90% 15%;
     --accent-hover: 38 95% 48%;
 
+    /* Warm Yellow - Energy and optimism */
+    --warm-yellow: 45 95% 55%;
+    --warm-yellow-light: 45 95% 70%;
+    --warm-yellow-foreground: 45 90% 15%;
+
+    /* Light Red/Coral - Urgency and attention */
+    --coral: 12 85% 60%;
+    --coral-light: 12 85% 75%;
+    --coral-foreground: 12 85% 15%;
+
     /* Success Green */
     --success: 142 70% 45%;
     --success-foreground: 0 0% 100%;
@@ -94,6 +104,14 @@
 
     --accent: 38 90% 55%;
     --accent-foreground: 38 90% 10%;
+
+    --warm-yellow: 45 90% 50%;
+    --warm-yellow-light: 45 90% 65%;
+    --warm-yellow-foreground: 45 90% 95%;
+
+    --coral: 12 80% 55%;
+    --coral-light: 12 80% 70%;
+    --coral-foreground: 12 80% 95%;
 
     --destructive: 0 62.8% 50%;
     --destructive-foreground: 0 0% 100%;

@@ -33,9 +33,8 @@ const CTASection = () => {
             
             <a href="https://wa.me/919876543210" target="_blank" rel="noopener noreferrer">
               <Button 
-                variant="hero" 
                 size="xl" 
-                className="w-full sm:w-auto gap-3 bg-primary-foreground text-primary hover:bg-primary-foreground/90"
+                className="w-full sm:w-auto gap-3 bg-coral text-coral-foreground hover:bg-coral/90 shadow-lg"
               >
                 <MessageCircle className="w-5 h-5" />
                 {t('common.whatsapp')}
